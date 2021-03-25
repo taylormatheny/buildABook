@@ -12,7 +12,7 @@ pandas-datareader>=0.8.0
 matplotlib==3.2.1
 pillow>=6.2.2
 h5py>=1.8.4
-pyyaml==5.3
+pyyaml==5.4
 flask>=1.1.1
 boto3>= 1.12.24
         
